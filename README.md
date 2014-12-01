@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Ghost](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost)
 
 ![Ghost Screenshot](https://cloud.githubusercontent.com/assets/120485/4828504/9e832764-5f80-11e4-8ac1-0332bcc67a35.png)
@@ -100,3 +101,9 @@ Constructed with the following guidelines:
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the [MIT license](LICENSE).
+=======
+ghost-fork
+==========
+
+Копия ghost-cms
+>>>>>>> db4f228949dff3bfb6b961038ef50d1b2dce0745
